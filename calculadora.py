@@ -10,6 +10,11 @@ def multiply(a, b):
 def divide(a, b):
     return a / b
 
+def clear()
+    return True
+
+
+
 print("Please enter the operation to perform:")
 print("1 - ADDITION")
 print("2 - SUBTRACTION")
