@@ -18,6 +18,8 @@ def clear():
 def pi():
     return math.pi
 
+def euler():
+    return math.e
 
 
 print("Please enter the operation to perform:")
